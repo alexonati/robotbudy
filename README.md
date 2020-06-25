@@ -9,4 +9,5 @@ a CardList component containing all users and then for each user a Card componen
 - How to create a React app;
 - How to use packages React Packages;
 - React syntax and components;
-- React hooks.
+- React hooks;
+- a bit of Redux, but still need to look into it more.
